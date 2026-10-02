@@ -1,2 +1,1 @@
-# zorka-store
-ну просто улучшил опен стор 
+echo "No build needed"
